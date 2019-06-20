@@ -1,0 +1,1 @@
+python3 ./plotter.py --filenames eps_kernel_test.csv eps_b_disk_test.csv eps_kernel_fast_test.csv eps_b_satscan_grid_test.csv --labels "Kernel Grid" "Disk" "Kernel Fast" "SatScan" --x s --y "jc" --error_plot 2 --no_points --noline --x_name "Sample Size" --y_name "Extended JC" --ybounds 0 1
